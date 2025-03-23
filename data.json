@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": "user_123",
+        "stocks": ["AAPL", "GOOGL", "TSLA"]
+    },
+    {
+        "user_id": "user_456",
+        "stocks": ["AMZN", "MSFT", "NFLX"]
+    },
+    {
+        "user_id": "user_789",
+        "stocks": ["META", "NVDA", "AMD"]
+    }
+]
