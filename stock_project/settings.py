@@ -54,6 +54,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  
     "http://127.0.0.1:3000",
     "https://stocks-analysis-three.vercel.app",
+    "https://stocks-back-end.onrender.com",
 ]
 
 
